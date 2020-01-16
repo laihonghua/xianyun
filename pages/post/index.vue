@@ -1,12 +1,10 @@
 <template>
-  <div class="container">
-
+  <div class="strategy">
+    攻略首页
   </div>
 </template>
 
 <script>
-
-
 export default {
 
 }
